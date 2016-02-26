@@ -1,0 +1,20 @@
+body {background-image:url(../images/skullface.jpg);}
+div.logo {background-color:black;margin:0 auto 30px auto;padding:0 auto;text-align:center;box-shadow:0 0 20px 5px blue inset;}
+div.nav {background:black url(../images/flame.gif);text-align:center;border:2px solid black;padding-top:2px;padding-bottom:2px;margin-left:auto;margin-right:auto;box-shadow:0 0 20px 5px red;}
+div.mininav {background:black url(../images/flame.gif);text-align:center;border;2px solid black;margin-left:auto;margin-right:auto;box-shadow:0 0 20px 5px orange;}
+ul.links>li {display:inline;}
+ul.links>li a {font-size:25px;text-transform:uppercase;color:white;text-decoration:none;margin:0 20px;}
+ul.morelinks>li {display:inline;}
+ul.morelinks>li a {font-size:25px;text-transform:uppercase;color:white;text-decoration:none;margin:0 20px;}
+div.header {position:relative;height:200px;background-color:rgba(255,255,255,0.2);padding-bottom:200px;margin:50px auto;display:none;}
+div.headertxt {position:absolute;color:white;font-family:Arial;font-size:30px;text-align:center;margin: 0 auto;left:0;right:0;}
+div.torch1 {position:absolute;top:50px;left:100px;margin:0 auto;}
+div.torch2 {position:absolute;top:50px;right:100px;margin:0 auto;}
+div.homeimages {position:relative;height:600px;background-color:rgba(0,0,0,0.6);font-family:helvetica;margin:10px auto;text-align:center;color:white;display:none;}
+div.megaman {position:absolute;top:100px;left:150px;width:150px;margin 0 auto;}
+div.kenshin {position:absolute;right:150px;width:150px;margin:0 auto;}
+div.code {position:absolute;top:200px;width:150px;margin:0 auto;left:0;right:0;}
+div.link {position:absolute;bottom:0;margin:0 auto;left:0;right:0;padding-bottom:1%;}
+a.top:link{color:green;text-decoration:none;font-family:Arial;}
+a.top:visited{color:green;text-decoration:none;}
+a.top:hover{color:white;text-decoration:underline;}

@@ -1,0 +1,26 @@
+body {background-image:url(../images/skullface.jpg);}
+div.logo {background-color:black;margin:0 auto 30px auto;padding:0 auto;text-align:center;box-shadow:0 0 20px 5px blue inset;display:none;}
+div.nav {background:black url(../images/flame.gif);text-align:center;border:2px solid black;padding-top:2px;padding-bottom:2px;margin-left:auto;margin-right:auto;box-shadow:0 0 20px 5px red;display:none;}
+div.mininav {background:black url(../images/flame.gif);text-align:center;border;2px solid black;margin-left:auto;margin-right:auto;box-shadow:0 0 20px 5px orange;display:none;}
+ul.links>li {display:inline;}
+ul.links>li a {font-size:25px;text-transform:uppercase;color:white;text-decoration:none;margin:0 20px;}
+ul.morelinks>li {display:inline;}
+ul.morelinks>li a {font-size:25px;text-transform:uppercase;color:white;text-decoration:none;margin:0 20px;}
+div.container {position:relative;display:none;}
+div.sidebar1{position:absolute;top:0;bottom:0;left:0;width:7%;background-image:url(../images/side.jpg);box-shadow:0 0 20px 5px #0B3B0B inset;border:2px solid #2E3B0B;}
+div.sidebar2{position:absolute;top:0;bottom:0;right:0;width:7%;background-image:url(../images/side.jpg);box-shadow:0 0 20px 5px #0B3B0B inset;border:2px solid #2E3B0B;}
+div.contact{background-color:rgba(255,255,255,0.5);width:465px;margin:50px auto;padding:2% 2% 0.5% 2%;border:5px solid #8FB5C1;-moz-border-radius:15px;-webkit-border-radius:15px;border-radius:15px;}
+div.contact h1{font-size:300%;font-family:Tahoma,Arial;}
+div.contact h2{margin-bottom:15px;font-style:italic;font-weight:normal;font-family:Tahoma,Arial;}
+div.contact input,div.contact textarea,div.contact label{font-size:100%;margin-bottom:2px;}
+div.contact input,div.contact textarea{width:450px;border:1px solid #CEE1E8;margin-bottom:20px;padding:4px;}
+div.contact label{display:block;}
+div.contact .required{font-weight:bold;color:#F00;}
+div.contact #submit{width:200px;background-color:#333;border:none;margin-bottom:0px;margin-right:6px;background-color:#8FB5C1;border-radius:8px;float:right;}
+div.contact #reset{width:200px;background-color:#333;border:none;margin-bottom:0px;margin-left:6px;background-color:#8FB5C1;border-radius:8px;}
+div.social{text-align:center;}
+div.social a{margin:0 2%;}
+div.top{position:relative;left:0;right:0;margin:0 auto;text-align:center;display:none;}
+a.top:link{color:green;text-decoration:none;font-family:Arial;}
+a.top:visited{color:green;text-decoration:none;}
+a.top:hover{color:white;text-decoration:underline;}

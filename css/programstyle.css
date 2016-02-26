@@ -1,0 +1,23 @@
+body {background-image:url(../images/skullface.jpg);}
+div.logo {background-color:black;margin:0 auto 30px auto;padding:0 auto;text-align:center;box-shadow:0 0 20px 5px blue inset;display:none;}
+div.nav {background:black url(../images/flame.gif);text-align:center;border:2px solid black;padding-top:2px;padding-bottom:2px;margin-left:auto;margin-right:auto;box-shadow:0 0 20px 5px red;display:none;}
+div.mininav {background:black url(../images/flame.gif);text-align:center;border;2px solid black;margin-left:auto;margin-right:auto;box-shadow:0 0 20px 5px orange;display:none;}
+ul.links>li {display:inline;}
+ul.links>li a {font-size:25px;text-transform:uppercase;color:white;text-decoration:none;margin:0 20px;}
+ul.morelinks>li {display:inline;}
+ul.morelinks>li a {font-size:25px;text-transform:uppercase;color:white;text-decoration:none;margin:0 20px;}
+div.container {position:relative;display:none;}
+div.sidebar1{position:absolute;top:0;bottom:0;left:0;width:7%;background-image:url(../images/side.jpg);box-shadow:0 0 20px 5px #0B3B0B inset;border:2px solid #2E3B0B;}
+div.game{background-color:rgba(0,0,0,0.5);width:70%;margin:50px auto;padding:2px 5%;}
+div.game{color:white;font-family:Tahoma,Arial;font-size:150%;}
+div.game h1{color:#04B404;font-family:Comic Sans MS,Tahoma,Arial;font-size:150%;}
+div.game figure.pic1{float:left; margin:0px 2% 0px 1%; border:1px solid #04B404;}
+div.game figure.pic2{float:right; margin:15px 2% 5px 1%; border:1px solid #04B404;}
+div.sidebar2{position:absolute;top:0;bottom:0;right:0;width:7%;background-image:url(../images/side.jpg);box-shadow:0 0 20px 5px #0B3B0B inset;border:2px solid #2E3B0B;}
+div.top{text-align:center;font-family:Tahoma, Arial;font-size:80%;}
+a.dllink:link{color:green;text-decoration:none;}
+a.dllink:visited{color:green;text-decoration:none;}
+a.dllink:hover{color:white;text-decoration:underline;}
+a.top:link{color:green;text-decoration:none;font-family:Arial;}
+a.top:visited{color:green;text-decoration:none;}
+a.top:hover{color:white;text-decoration:underline;}
